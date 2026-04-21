@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hotel_Management">
+    <output-path>$USER_HOME$/OneDrive/Desktop</output-path>
+    <root id="archive" name="menu9db4.jar">
+      <element id="module-output" name="menu9db4" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../menu9db2/hotelmanagement/lib/mysql-connector-j-9.4.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
